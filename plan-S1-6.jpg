@@ -1,34 +1,34 @@
 <!DOCTYPE html>
-<html lang="hr">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#00707D">
-<meta name="description" content="Front Development — moderna stambena zgrada u Horvatovoj ulici, Zagreb. 19 stanova, podzemna garaža, odlična lokacija u naselju Klara.">
-<meta name="keywords" content="Front Development, stanovi Zagreb, Horvatova ulica, Klara, novogradnja Zagreb, prodaja stanova">
+<meta name="description" content="Front Development — modern residential building on Horvatova Street, Zagreb. 19 apartments, underground garage, excellent location.">
+<meta name="keywords" content="Front Development, apartments Zagreb, Horvatova Street, Klara, new construction Zagreb">
 <meta name="robots" content="index, follow">
-<title>Front Development — Stambena zgrada u Horvatovoj ulici, Zagreb</title>
+<title>Front Development — Residential building on Horvatova Street, Zagreb</title>
 
-<link rel="canonical" href="https://front.hr/">
+<link rel="canonical" href="https://front.hr/en/">
 <link rel="alternate" hreflang="hr" href="https://front.hr/">
 <link rel="alternate" hreflang="en" href="https://front.hr/en/">
 <link rel="alternate" hreflang="uk" href="https://front.hr/ua/">
 <link rel="alternate" hreflang="x-default" href="https://front.hr/">
 
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://front.hr/">
-<meta property="og:title" content="Front Development — Stambena zgrada u Horvatovoj ulici">
-<meta property="og:description" content="Moderna stambena zgrada s 19 stanova u mirnom dijelu Zagreba.">
+<meta property="og:url" content="https://front.hr/en/">
+<meta property="og:title" content="Front Development — Residential building on Horvatova Street">
+<meta property="og:description" content="Modern residential building with 19 apartments in a quiet part of Zagreb.">
 <meta property="og:image" content="https://front.hr/images/exterior-front.jpg">
-<meta property="og:locale" content="hr_HR">
+<meta property="og:locale" content="en_US">
 
-<link rel="icon" type="image/png" sizes="48x48" href="images/favicon-48.png">
-<link rel="icon" type="image/png" sizes="96x96" href="images/favicon-96.png">
-<link rel="icon" type="image/png" sizes="192x192" href="images/favicon-192.png">
-<link rel="apple-touch-icon" href="images/favicon-192.png">
+<link rel="icon" type="image/png" sizes="48x48" href="../images/favicon-48.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../images/favicon-96.png">
+<link rel="icon" type="image/png" sizes="192x192" href="../images/favicon-192.png">
+<link rel="apple-touch-icon" href="../images/favicon-192.png">
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"RealEstateAgent","name":"Front Development d.o.o.","url":"https://front.hr","image":"https://front.hr/images/exterior-front.jpg","description":"Front Development gradi modernu stambenu zgradu u Horvatovoj ulici u Zagrebu — 19 stanova, podzemna garaža i suvremena arhitektura u naselju Klara.","telephone":"+385916163152","email":"info@front.hr","address":{"@type":"PostalAddress","streetAddress":"Horvatova ulica","addressLocality":"Zagreb","postalCode":"10000","addressCountry":"HR"},"geo":{"@type":"GeoCoordinates","latitude":45.763233,"longitude":15.977296}}
+{"@context":"https://schema.org","@type":"RealEstateAgent","name":"Front Development d.o.o.","url":"https://front.hr","image":"https://front.hr/images/exterior-front.jpg","description":"Front Development is building a modern residential building on Horvatova Street in Zagreb — 19 apartments, underground garage and contemporary architecture.","telephone":"+385916163152","email":"info@front.hr","address":{"@type":"PostalAddress","streetAddress":"Horvatova ulica","addressLocality":"Zagreb","postalCode":"10000","addressCountry":"HR"},"geo":{"@type":"GeoCoordinates","latitude":45.763233,"longitude":15.977296}}
 </script>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -435,36 +435,36 @@ a.contact-value:hover { color: var(--primary-light); }
 
 <div id="cookie-banner" class="cookie-banner" hidden>
   <div class="cookie-content">
-    <p>Ova web stranica koristi kolačiće za poboljšanje korisničkog iskustva.</p>
+    <p>This website uses cookies to improve user experience.</p>
     <div class="cookie-buttons">
-      <button id="cookie-accept" class="btn btn-primary btn-sm">Prihvaćam</button>
-      <button id="cookie-decline" class="btn btn-outline btn-sm">Odbijam</button>
+      <button id="cookie-accept" class="btn btn-primary btn-sm">Accept</button>
+      <button id="cookie-decline" class="btn btn-outline btn-sm">Decline</button>
     </div>
   </div>
 </div>
 
 <header class="site-header">
   <div class="container header-inner">
-    <a href="./" class="logo">
+    <a href="../" class="logo">
       <span class="logo-text">FRONT</span>
       <span class="logo-sub">development</span>
     </a>
     <nav class="main-nav">
       <ul>
-        <li><a href="#about">O projektu</a></li>
-        <li><a href="#apartments">Stanovi</a></li>
-        <li><a href="#location">Lokacija</a></li>
-        <li><a href="#gallery">Galerija</a></li>
-        <li><a href="#contact">Kontakt</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#apartments">Apartments</a></li>
+        <li><a href="#location">Location</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
     <div class="header-right">
       <div class="lang-switcher">
-        <a href="./" class="lang-btn active">HR</a>
-        <a href="en/" class="lang-btn">EN</a>
-        <a href="ua/" class="lang-btn">UA</a>
+        <a href="../" class="lang-btn">HR</a>
+        <a href="./" class="lang-btn active">EN</a>
+        <a href="../ua/" class="lang-btn">UA</a>
       </div>
-      <button class="menu-toggle" aria-label="Izbornik"><span></span><span></span><span></span></button>
+      <button class="menu-toggle" aria-label="Menu"><span></span><span></span><span></span></button>
     </div>
   </div>
 </header>
@@ -472,11 +472,11 @@ a.contact-value:hover { color: var(--primary-light); }
 <div class="mobile-menu" id="mobile-menu" hidden>
   <nav>
     <ul>
-      <li><a href="#about">O projektu</a></li>
-      <li><a href="#apartments">Stanovi</a></li>
-      <li><a href="#location">Lokacija</a></li>
-      <li><a href="#gallery">Galerija</a></li>
-      <li><a href="#contact">Kontakt</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#apartments">Apartments</a></li>
+      <li><a href="#location">Location</a></li>
+      <li><a href="#gallery">Gallery</a></li>
+      <li><a href="#contact">Contact</a></li>
     </ul>
   </nav>
 </div>
@@ -484,15 +484,15 @@ a.contact-value:hover { color: var(--primary-light); }
 <main>
 
 <section class="hero">
-  <div class="hero-bg"><img src="images/exterior-front.jpg" alt="Front Development Horvatova"></div>
+  <div class="hero-bg"><img src="../images/exterior-front.jpg" alt="Front Development Horvatova"></div>
   <div class="hero-overlay"></div>
   <div class="container hero-content">
-    <p class="hero-eyebrow">Nova stambena zgrada u Zagrebu</p>
-    <h1>Prostor stvoren <br><span class="accent">za život</span></h1>
-    <p class="hero-lead">Moderan stambeni kompleks za siguran, udoban i uravnotežen život u mirnom dijelu naselja Klara.</p>
+    <p class="hero-eyebrow">New residential building in Zagreb</p>
+    <h1>A space created <br><span class="accent">for living</span></h1>
+    <p class="hero-lead">A modern residential complex for safe, comfortable and balanced living in a quiet part of the Klara neighbourhood.</p>
     <div class="hero-actions">
-      <a href="#apartments" class="btn btn-primary">Pogledaj ponudu</a>
-      <a href="#contact" class="btn btn-outline-light">Pošalji upit</a>
+      <a href="#apartments" class="btn btn-primary">View offer</a>
+      <a href="#contact" class="btn btn-outline-light">Send inquiry</a>
     </div>
   </div>
 </section>
@@ -502,23 +502,23 @@ a.contact-value:hover { color: var(--primary-light); }
     <div class="stats-grid">
       <div class="stat">
         <div class="stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 21V8l9-5 9 5v13M9 21v-6h6v6"/></svg></div>
-        <div class="stat-num">5 etaža</div>
-        <div class="stat-label">1 podzemna + 4 nadzemne</div>
+        <div class="stat-num">5 floors</div>
+        <div class="stat-label">1 underground + 4 above-ground</div>
       </div>
       <div class="stat">
         <div class="stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 8h6M9 12h6M9 16h4"/></svg></div>
         <div class="stat-num">19</div>
-        <div class="stat-label">Stanova</div>
+        <div class="stat-label">Apartments</div>
       </div>
       <div class="stat">
         <div class="stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M9 16V8h3.5a2.5 2.5 0 010 5H9"/></svg></div>
         <div class="stat-num">21</div>
-        <div class="stat-label">Parkirnih mjesta</div>
+        <div class="stat-label">Parking spaces</div>
       </div>
       <div class="stat">
         <div class="stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg></div>
         <div class="stat-num">46–109 m²</div>
-        <div class="stat-label">Površine stanova</div>
+        <div class="stat-label">Apartment sizes</div>
       </div>
     </div>
   </div>
@@ -530,24 +530,24 @@ a.contact-value:hover { color: var(--primary-light); }
       <div>
         <div class="carousel" data-carousel>
           <div class="carousel-track">
-            <img src="images/exterior-front.jpg" alt="Glavno pročelje" class="active">
-            <img src="images/exterior-garden.jpg" alt="Pogled iz vrta">
-            <img src="images/exterior-aerial.jpg" alt="Zračni pogled">
-            <img src="images/exterior-rear.jpg" alt="Stražnja strana">
-            <img src="images/balcony-pair.jpg" alt="Balkoni">
-            <img src="images/balcony-closeup.jpg" alt="Detalj balkona">
+            <img src="../images/exterior-front.jpg" alt="Main façade" class="active">
+            <img src="../images/exterior-garden.jpg" alt="View from the garden">
+            <img src="../images/exterior-aerial.jpg" alt="Aerial view">
+            <img src="../images/exterior-rear.jpg" alt="Rear side">
+            <img src="../images/balcony-pair.jpg" alt="Balconies">
+            <img src="../images/balcony-closeup.jpg" alt="Balcony detail">
           </div>
-          <button class="carousel-prev" aria-label="Prethodna">‹</button>
-          <button class="carousel-next" aria-label="Sljedeća">›</button>
+          <button class="carousel-prev" aria-label="Previous">‹</button>
+          <button class="carousel-next" aria-label="Next">›</button>
           <div class="carousel-dots"></div>
         </div>
       </div>
       <div class="about-content">
-        <p class="section-eyebrow">O projektu</p>
-        <h2><span class="accent">Prostor za</span><br>kvalitetan život</h2>
-        <p>Pažljivo osmišljena stambena zgrada koja spaja suvremenu arhitekturu, funkcionalne tlocrte i visoku razinu udobnosti. Različiti tipovi stanova prilagođeni su različitim životnim stilovima.</p>
-        <p>Smještena u mirnom dijelu naselja Klara, nadomak javnog prijevoza, škola, trgovina i restorana. Podzemna garaža s grijanim kolnim pristupom i dva stana prilagođena osobama s invaliditetom u prizemlju.</p>
-        <a href="#apartments" class="btn btn-primary">Pogledaj stanove</a>
+        <p class="section-eyebrow">About</p>
+        <h2><span class="accent">A space for</span><br>quality living</h2>
+        <p>A carefully designed residential building combining contemporary architecture, functional floor plans and a high level of comfort. Various apartment types are tailored to different lifestyles.</p>
+        <p>Located in a quiet part of the Klara neighbourhood, close to public transport, schools, shops and restaurants. Underground garage with heated drive ramp and two ground-floor apartments adapted for people with disabilities.</p>
+        <a href="#apartments" class="btn btn-primary">View apartments</a>
       </div>
     </div>
   </div>
@@ -558,19 +558,19 @@ a.contact-value:hover { color: var(--primary-light); }
     <div class="info-grid">
       <div class="info-item">
         <div class="info-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg></div>
-        <div class="info-text"><span class="info-label">Cijena</span><span class="info-value">na upit</span></div>
+        <div class="info-text"><span class="info-label">Price</span><span class="info-value">on request</span></div>
       </div>
       <div class="info-item">
         <div class="info-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg></div>
-        <div class="info-text"><span class="info-label">Površina</span><span class="info-value">46 – 109 m²</span></div>
+        <div class="info-text"><span class="info-label">Area</span><span class="info-value">46 – 109 m²</span></div>
       </div>
       <div class="info-item">
         <div class="info-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M16 3v4M8 3v4M3 11h18"/></svg></div>
-        <div class="info-text"><span class="info-label">Kraj gradnje</span><span class="info-value">XX / 20XX</span></div>
+        <div class="info-text"><span class="info-label">Completion</span><span class="info-value">XX / 20XX</span></div>
       </div>
       <div class="info-item">
         <div class="info-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="10" r="3"/><path d="M12 21s-7-7-7-12a7 7 0 1114 0c0 5-7 12-7 12z"/></svg></div>
-        <div class="info-text"><span class="info-label">Lokacija</span><span class="info-value">Klara, Zagreb</span></div>
+        <div class="info-text"><span class="info-label">Location</span><span class="info-value">Klara, Zagreb</span></div>
       </div>
     </div>
   </div>
@@ -579,39 +579,39 @@ a.contact-value:hover { color: var(--primary-light); }
 <section>
   <div class="container">
     <div class="section-head">
-      <p class="section-eyebrow">Naše vrijednosti</p>
-      <h2><span class="accent">Što nas</span> izdvaja</h2>
+      <p class="section-eyebrow">Our values</p>
+      <h2><span class="accent">What sets us</span> apart</h2>
     </div>
     <div class="values-grid">
       <div class="value-card">
         <div class="value-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 21V8l9-5 9 5v13M9 21v-6h6v6"/></svg></div>
-        <h3>Moderan prostor</h3>
-        <p>Funkcionalni stanovi za različite stilove života i svakodnevnu udobnost.</p>
+        <h3>Modern space</h3>
+        <p>Functional apartments for different lifestyles and everyday comfort.</p>
       </div>
       <div class="value-card">
         <div class="value-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="9" cy="8" r="3"/><circle cx="17" cy="10" r="2.5"/><path d="M3 20c0-3 3-5 6-5s6 2 6 5M14 20c0-2 2-3.5 4-3.5s4 1.5 4 3.5"/></svg></div>
-        <h3>Zajednica</h3>
-        <p>Vanjski prostori i dječje igralište za druženje i opuštanje.</p>
+        <h3>Community</h3>
+        <p>Outdoor spaces and a playground for togetherness and relaxation.</p>
       </div>
       <div class="value-card">
         <div class="value-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="10" r="3"/><path d="M12 21s-7-7-7-12a7 7 0 1114 0c0 5-7 12-7 12z"/></svg></div>
-        <h3>Odlična lokacija</h3>
-        <p>Mirna lokacija s brzom povezanošću prema centru grada.</p>
+        <h3>Excellent location</h3>
+        <p>A quiet location with quick access to the city centre.</p>
       </div>
       <div class="value-card">
         <div class="value-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2L4 7v10l8 5 8-5V7l-8-5z"/></svg></div>
-        <h3>Održivost</h3>
-        <p>Energetski učinkovita rješenja i kvalitetni materijali.</p>
+        <h3>Sustainability</h3>
+        <p>Energy-efficient solutions and quality materials.</p>
       </div>
       <div class="value-card">
         <div class="value-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg></div>
-        <h3>Suvremena arhitektura</h3>
-        <p>Čista forma, opeka i beton — kombinacija topline i karaktera.</p>
+        <h3>Contemporary architecture</h3>
+        <p>Clean form, brick and concrete — a combination of warmth and character.</p>
       </div>
       <div class="value-card">
         <div class="value-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg></div>
-        <h3>Pristupačnost</h3>
-        <p>Dva stana prilagođena osobama s invaliditetom, dizalo i grijani prilaz.</p>
+        <h3>Accessibility</h3>
+        <p>Two apartments adapted for people with disabilities, lift and heated access.</p>
       </div>
     </div>
   </div>
@@ -620,40 +620,40 @@ a.contact-value:hover { color: var(--primary-light); }
 <section id="apartments" class="apartments">
   <div class="container">
     <div class="section-head">
-      <p class="section-eyebrow">Katalog stanova</p>
-      <h2><span class="accent">19 stanova</span> za vaš novi dom</h2>
-      <p class="section-lead">Podzemna garaža i četiri nadzemne etaže s 19 stanova različitih veličina i tipologija.</p>
+      <p class="section-eyebrow">Apartments catalogue</p>
+      <h2><span class="accent">19 apartments</span> for your new home</h2>
+      <p class="section-lead">Underground garage and four above-ground floors with 19 apartments of various sizes and layouts.</p>
     </div>
     <div class="apt-filters">
-      <button class="filter-btn active" data-filter="all">Svi stanovi</button>
-      <button class="filter-btn" data-filter="0">Prizemlje</button>
-      <button class="filter-btn" data-filter="1">1. kat</button>
-      <button class="filter-btn" data-filter="2">2. kat</button>
-      <button class="filter-btn" data-filter="3">3. kat</button>
+      <button class="filter-btn active" data-filter="all">All apartments</button>
+      <button class="filter-btn" data-filter="0">Ground floor</button>
+      <button class="filter-btn" data-filter="1">1st floor</button>
+      <button class="filter-btn" data-filter="2">2nd floor</button>
+      <button class="filter-btn" data-filter="3">3rd floor</button>
     </div>
     <div class="apt-grid" id="apt-grid"></div>
-    <p class="apt-note">Sve cijene dostupne na upit.</p>
+    <p class="apt-note">All prices available on request.</p>
   </div>
 </section>
 
 <section id="location">
   <div class="container">
     <div class="section-head">
-      <p class="section-eyebrow">Lokacija</p>
-      <h2><span class="accent">U srcu</span> naselja Klara</h2>
-      <p class="section-lead">Horvatova ulica, mirni dio Novog Zagreba s brzom povezanošću prema centru grada.</p>
+      <p class="section-eyebrow">Location</p>
+      <h2><span class="accent">In the heart</span> of Klara</h2>
+      <p class="section-lead">Horvatova Street, a quiet part of Novi Zagreb with quick connections to the city centre.</p>
     </div>
     <div class="location-grid">
       <div class="location-points">
         <div class="poi"><div class="poi-num">800 m</div><div class="poi-info"><h4>Lidl</h4><p>Supermarket</p></div></div>
-        <div class="poi"><div class="poi-num">2,8 km</div><div class="poi-info"><h4>Avenue Mall</h4><p>Trgovački centar</p></div></div>
-        <div class="poi"><div class="poi-num">3 km</div><div class="poi-info"><h4>Park Bundek</h4><p>Park i jezero</p></div></div>
-        <div class="poi"><div class="poi-num">3,5 km</div><div class="poi-info"><h4>Arena Zagreb</h4><p>Dvorana</p></div></div>
-        <div class="poi"><div class="poi-num">5 min</div><div class="poi-info"><h4>Javni prijevoz</h4><p>Tramvaj i autobus</p></div></div>
-        <div class="poi"><div class="poi-num">10 min</div><div class="poi-info"><h4>Centar Zagreba</h4><p>Automobilom</p></div></div>
+        <div class="poi"><div class="poi-num">2,8 km</div><div class="poi-info"><h4>Avenue Mall</h4><p>Shopping mall</p></div></div>
+        <div class="poi"><div class="poi-num">3 km</div><div class="poi-info"><h4>Bundek Park</h4><p>Park and lake</p></div></div>
+        <div class="poi"><div class="poi-num">3,5 km</div><div class="poi-info"><h4>Arena Zagreb</h4><p>Hall</p></div></div>
+        <div class="poi"><div class="poi-num">5 min</div><div class="poi-info"><h4>Public transport</h4><p>Tram and bus</p></div></div>
+        <div class="poi"><div class="poi-num">10 min</div><div class="poi-info"><h4>Zagreb centre</h4><p>By car</p></div></div>
       </div>
       <div class="location-map">
-        <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.95%2C45.74%2C16.0%2C45.78&amp;layer=mapnik&amp;marker=45.763233%2C15.977296" loading="lazy" title="Karta lokacije"></iframe>
+        <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.95%2C45.74%2C16.0%2C45.78&amp;layer=mapnik&amp;marker=45.763233%2C15.977296" loading="lazy" title="Location map"></iframe>
       </div>
     </div>
   </div>
@@ -662,27 +662,27 @@ a.contact-value:hover { color: var(--primary-light); }
 <section id="services" class="services">
   <div class="container">
     <div class="section-head">
-      <p class="section-eyebrow">Naše usluge</p>
-      <h2><span class="accent">Uz vas</span> na svakom koraku</h2>
+      <p class="section-eyebrow">Our services</p>
+      <h2><span class="accent">By your side</span> every step of the way</h2>
     </div>
     <div class="services-grid">
       <div class="service-card">
         <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M2 8h20M6 14h4"/></svg></div>
-        <h3>Online konzultacije</h3>
-        <p>Razgovor s našim timom putem video poziva — bez napuštanja doma.</p>
-        <a href="#contact" class="service-link" data-purpose="call">Naručite poziv →</a>
+        <h3>Online consultation</h3>
+        <p>Talk to our team via video call — without leaving home.</p>
+        <a href="#contact" class="service-link" data-purpose="call">Book a call →</a>
       </div>
       <div class="service-card">
         <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="3"/><path d="M2 12s4-7 10-7 10 7 10 7-4 7-10 7-10-7-10-7z"/></svg></div>
-        <h3>Posjet objektu</h3>
-        <p>Dogovorite obilazak gradilišta i upoznajte buduću zgradu uživo.</p>
-        <a href="#contact" class="service-link" data-purpose="visit">Dođite u posjet →</a>
+        <h3>On-site visit</h3>
+        <p>Arrange a site tour and explore the future building in person.</p>
+        <a href="#contact" class="service-link" data-purpose="visit">Visit us →</a>
       </div>
       <div class="service-card">
         <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><path d="M14 2v6h6"/></svg></div>
-        <h3>Personalizirana ponuda</h3>
-        <p>Pošaljite upit i pripremit ćemo detaljnu ponudu za vas.</p>
-        <a href="#contact" class="service-link">Pošalji upit →</a>
+        <h3>Personalised offer</h3>
+        <p>Send an inquiry and we will prepare a detailed offer for you.</p>
+        <a href="#contact" class="service-link">Send inquiry →</a>
       </div>
     </div>
   </div>
@@ -691,21 +691,21 @@ a.contact-value:hover { color: var(--primary-light); }
 <section id="gallery">
   <div class="container">
     <div class="section-head">
-      <p class="section-eyebrow">Galerija</p>
-      <h2><span class="accent">Pogledajte</span> kako će izgledati</h2>
+      <p class="section-eyebrow">Gallery</p>
+      <h2><span class="accent">See how</span> it will look</h2>
     </div>
     <div class="gallery-grid">
-      <div class="gallery-item gallery-large"><img src="images/exterior-front.jpg" alt="Glavno pročelje" loading="lazy"></div>
-      <div class="gallery-item"><img src="images/exterior-garden.jpg" alt="Vrt" loading="lazy"></div>
-      <div class="gallery-item"><img src="images/exterior-rear.jpg" alt="Stražnja strana" loading="lazy"></div>
-      <div class="gallery-item"><img src="images/balcony-closeup.jpg" alt="Detalj balkona" loading="lazy"></div>
-      <div class="gallery-item"><img src="images/exterior-aerial.jpg" alt="Zračni pogled" loading="lazy"></div>
-      <div class="gallery-item"><img src="images/balcony-pair.jpg" alt="Balkoni" loading="lazy"></div>
-      <div class="gallery-item"><img src="images/interior-living.jpg" alt="Dnevni boravak" loading="lazy"></div>
-      <div class="gallery-item"><img src="images/interior-bedroom.jpg" alt="Spavaća soba" loading="lazy"></div>
-      <div class="gallery-item"><img src="images/interior-bathroom1.jpg" alt="Kupaonica" loading="lazy"></div>
-      <div class="gallery-item"><img src="images/interior-bathroom2.jpg" alt="Kupaonica" loading="lazy"></div>
-      <div class="gallery-item"><img src="images/interior-lobby.jpg" alt="Ulaz" loading="lazy"></div>
+      <div class="gallery-item gallery-large"><img src="../images/exterior-front.jpg" alt="Main façade" loading="lazy"></div>
+      <div class="gallery-item"><img src="../images/exterior-garden.jpg" alt="Garden" loading="lazy"></div>
+      <div class="gallery-item"><img src="../images/exterior-rear.jpg" alt="Rear side" loading="lazy"></div>
+      <div class="gallery-item"><img src="../images/balcony-closeup.jpg" alt="Balcony detail" loading="lazy"></div>
+      <div class="gallery-item"><img src="../images/exterior-aerial.jpg" alt="Aerial view" loading="lazy"></div>
+      <div class="gallery-item"><img src="../images/balcony-pair.jpg" alt="Balconies" loading="lazy"></div>
+      <div class="gallery-item"><img src="../images/interior-living.jpg" alt="Living room" loading="lazy"></div>
+      <div class="gallery-item"><img src="../images/interior-bedroom.jpg" alt="Bedroom" loading="lazy"></div>
+      <div class="gallery-item"><img src="../images/interior-bathroom1.jpg" alt="Bathroom" loading="lazy"></div>
+      <div class="gallery-item"><img src="../images/interior-bathroom2.jpg" alt="Bathroom" loading="lazy"></div>
+      <div class="gallery-item"><img src="../images/interior-lobby.jpg" alt="Entrance" loading="lazy"></div>
     </div>
   </div>
 </section>
@@ -714,13 +714,13 @@ a.contact-value:hover { color: var(--primary-light); }
   <div class="container">
     <div class="contact-grid">
       <div class="contact-info">
-        <p class="section-eyebrow">Kontaktirajte nas</p>
-        <h2><span class="accent">Pošaljite</span> upit</h2>
-        <p>Imate pitanje, želite zakazati posjet ili tražite personaliziranu ponudu? Javite nam se.</p>
+        <p class="section-eyebrow">Contact us</p>
+        <h2><span class="accent">Send</span> inquiry</h2>
+        <p>Have a question, want to schedule a visit or looking for a personalised offer? Get in touch.</p>
         <div class="contact-details">
           <div class="contact-item">
             <div class="contact-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72c.13.96.36 1.9.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0122 16.92z"/></svg></div>
-            <div><span class="contact-label">Telefon</span><a href="tel:+385916163152" class="contact-value">+385 91 616 3152</a></div>
+            <div><span class="contact-label">Phone</span><a href="tel:+385916163152" class="contact-value">+385 91 616 3152</a></div>
           </div>
           <div class="contact-item">
             <div class="contact-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 6L12 13 2 6"/></svg></div>
@@ -728,31 +728,31 @@ a.contact-value:hover { color: var(--primary-light); }
           </div>
           <div class="contact-item">
             <div class="contact-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="10" r="3"/><path d="M12 21s-7-7-7-12a7 7 0 1114 0c0 5-7 12-7 12z"/></svg></div>
-            <div><span class="contact-label">Adresa</span><span class="contact-value">Horvatova ulica, Zagreb</span></div>
+            <div><span class="contact-label">Address</span><span class="contact-value">Horvatova Street, Zagreb</span></div>
           </div>
           <div class="contact-item">
             <div class="contact-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg></div>
-            <div><span class="contact-label">Radno vrijeme</span><span class="contact-value">Pon – Sub: 08:00 – 18:00</span></div>
+            <div><span class="contact-label">Working hours</span><span class="contact-value">Mon – Sat: 08:00 – 18:00</span></div>
           </div>
         </div>
       </div>
       <div class="contact-form-wrap">
         <form id="contact-form" action="https://api.web3forms.com/submit" method="POST">
           <input type="hidden" name="access_key" value="b25101bd-66c7-484b-921a-34010b1ccdf5">
-          <input type="hidden" name="subject" value="Novi upit s Front Development sajta">
+          <input type="hidden" name="subject" value="New inquiry from Front Development website">
           <input type="hidden" name="from_name" value="Front Development website">
           <input type="checkbox" name="botcheck" style="display:none">
           <div class="form-toggle">
-            <button type="button" class="toggle-btn active" data-purpose="info">Informacije</button>
-            <button type="button" class="toggle-btn" data-purpose="visit">Posjet</button>
-            <button type="button" class="toggle-btn" data-purpose="call">Poziv</button>
+            <button type="button" class="toggle-btn active" data-purpose="info">Information</button>
+            <button type="button" class="toggle-btn" data-purpose="visit">Visit</button>
+            <button type="button" class="toggle-btn" data-purpose="call">Call</button>
           </div>
           <input type="hidden" name="purpose" id="form-purpose" value="info">
-          <div class="form-row"><label for="name">Ime i prezime *</label><input type="text" id="name" name="name" required></div>
-          <div class="form-row"><label for="phone">Broj telefona *</label><input type="tel" id="phone" name="phone" required></div>
+          <div class="form-row"><label for="name">Full name *</label><input type="text" id="name" name="name" required></div>
+          <div class="form-row"><label for="phone">Phone number *</label><input type="tel" id="phone" name="phone" required></div>
           <div class="form-row"><label for="email">Email</label><input type="email" id="email" name="email"></div>
-          <div class="form-row"><label for="message">Vaša poruka</label><textarea id="message" name="message" rows="3"></textarea></div>
-          <button type="submit" class="btn btn-primary btn-block">Pošalji poruku</button>
+          <div class="form-row"><label for="message">Your message</label><textarea id="message" name="message" rows="3"></textarea></div>
+          <button type="submit" class="btn btn-primary btn-block">Send message</button>
           <div class="form-status" id="form-status"></div>
         </form>
       </div>
@@ -769,25 +769,25 @@ a.contact-value:hover { color: var(--primary-light); }
         <span class="logo-text">FRONT</span>
         <span class="logo-sub">development</span>
       </div>
-      <p class="footer-tagline">Moderan stambeni kompleks za siguran, udoban i uravnotežen život.</p>
+      <p class="footer-tagline">A modern residential complex for safe, comfortable and balanced living.</p>
     </div>
     <div class="footer-col">
-      <h4>Navigacija</h4>
+      <h4>Navigation</h4>
       <ul>
-        <li><a href="#about">O projektu</a></li>
-        <li><a href="#apartments">Stanovi</a></li>
-        <li><a href="#location">Lokacija</a></li>
-        <li><a href="#gallery">Galerija</a></li>
-        <li><a href="#contact">Kontakt</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#apartments">Apartments</a></li>
+        <li><a href="#location">Location</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
     </div>
     <div class="footer-col">
-      <h4>Kontakt</h4>
+      <h4>Contact</h4>
       <ul>
         <li><a href="tel:+385916163152">+385 91 616 3152</a></li>
         <li><a href="mailto:info@front.hr">info@front.hr</a></li>
-        <li>Horvatova ulica, Zagreb</li>
-        <li>Pon – Sub: 08:00 – 18:00</li>
+        <li>Horvatova Street, Zagreb</li>
+        <li>Mon – Sat: 08:00 – 18:00</li>
       </ul>
     </div>
     <div class="footer-col">
@@ -800,14 +800,14 @@ a.contact-value:hover { color: var(--primary-light); }
     </div>
   </div>
   <div class="container footer-bottom">
-    <p>© 2026 Front Development d.o.o. — Sva prava pridržana.</p>
+    <p>© 2026 Front Development d.o.o. — All rights reserved.</p>
   </div>
 </footer>
 
 <div class="sticky-cta">
   <a href="#contact" class="btn btn-primary btn-sticky" data-purpose="visit">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><circle cx="12" cy="12" r="3"/><path d="M2 12s4-7 10-7 10 7 10 7-4 7-10 7-10-7-10-7z"/></svg>
-    Dođite u posjet
+    Visit us
   </a>
   <a href="#contact" class="btn btn-primary btn-sticky" data-purpose="call">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72c.13.96.36 1.9.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0122 16.92z"/></svg>
@@ -817,37 +817,37 @@ a.contact-value:hover { color: var(--primary-light); }
 
 <script>
 var APARTMENTS = [
-  {id:"S0.1", floor:0, floorLabel:"Prizemlje", area:53.63, rooms:1, outdoor:7.24, outdoorType:"Terasa", accessible:true, plan:"plan-S0-1.jpg"},
-  {id:"S0.2", floor:0, floorLabel:"Prizemlje", area:74.30, rooms:2, outdoor:2.46, outdoorType:"Predvrt", plan:"plan-S0-2.jpg"},
-  {id:"S0.3", floor:0, floorLabel:"Prizemlje", area:51.52, rooms:1, outdoor:1.86, outdoorType:"Predvrt", accessible:true, plan:"plan-S0-3.jpg"},
-  {id:"S0.4", floor:0, floorLabel:"Prizemlje", area:64.47, rooms:2, outdoor:1.86, outdoorType:"Predvrt", plan:"plan-S0-4.jpg"},
-  {id:"S0.5", floor:0, floorLabel:"Prizemlje", area:94.85, rooms:2, outdoor:12.31, outdoorType:"Terasa", plan:"plan-S0-5.jpg"},
-  {id:"S1.1", floor:1, floorLabel:"1. kat", area:50.53, rooms:1, outdoor:3.76, outdoorType:"Balkon", plan:"plan-S1-1.jpg"},
-  {id:"S1.2", floor:1, floorLabel:"1. kat", area:60.81, rooms:1, outdoor:5.12, outdoorType:"Balkon", plan:"plan-S1-2.jpg"},
-  {id:"S1.3", floor:1, floorLabel:"1. kat", area:83.56, rooms:2, outdoor:5.47, outdoorType:"Balkon", plan:"plan-S1-3.jpg"},
-  {id:"S1.4", floor:1, floorLabel:"1. kat", area:69.24, rooms:2, outdoor:10.46, outdoorType:"Balkoni", plan:"plan-S1-4.jpg"},
-  {id:"S1.5", floor:1, floorLabel:"1. kat", area:45.91, rooms:1, outdoor:4.99, outdoorType:"Balkon", plan:"plan-S1-5.jpg"},
-  {id:"S1.6", floor:1, floorLabel:"1. kat", area:46.46, rooms:1, outdoor:5.94, outdoorType:"Balkon", plan:"plan-S1-6.jpg"},
-  {id:"S2.1", floor:2, floorLabel:"2. kat", area:49.47, rooms:1, outdoor:2.70, outdoorType:"Balkon", plan:"plan-S2-1.jpg"},
-  {id:"S2.2", floor:2, floorLabel:"2. kat", area:59.53, rooms:1, outdoor:3.70, outdoorType:"Balkon", plan:"plan-S2-2.jpg"},
-  {id:"S2.3", floor:2, floorLabel:"2. kat", area:82.12, rooms:2, outdoor:4.45, outdoorType:"Balkon", plan:"plan-S2-3.jpg"},
-  {id:"S2.4", floor:2, floorLabel:"2. kat", area:109.07, rooms:3, outdoor:9.38, outdoorType:"Balkoni", plan:"plan-S2-4.jpg"},
-  {id:"S2.5", floor:2, floorLabel:"2. kat", area:46.46, rooms:1, outdoor:5.94, outdoorType:"Balkon", plan:"plan-S2-5.jpg"},
-  {id:"S3.1", floor:3, floorLabel:"3. kat", area:84.41, rooms:2, outdoor:6.24, outdoorType:"Terase", plan:"plan-S3-1.jpg"},
-  {id:"S3.2", floor:3, floorLabel:"3. kat", area:94.78, rooms:2, outdoor:16.12, outdoorType:"Terasa + balkon", plan:"plan-S3-2.jpg"},
-  {id:"S3.3", floor:3, floorLabel:"3. kat", area:95.94, rooms:2, outdoor:8.97, outdoorType:"Terasa + balkon", plan:"plan-S3-3.jpg"}
+  {id:"S0.1", floor:0, floorLabel:"Ground floor", area:53.63, rooms:1, outdoor:7.24, outdoorType:"Terrace", accessible:true, plan:"plan-S0-1.jpg"},
+  {id:"S0.2", floor:0, floorLabel:"Ground floor", area:74.30, rooms:2, outdoor:2.46, outdoorType:"Front garden", plan:"plan-S0-2.jpg"},
+  {id:"S0.3", floor:0, floorLabel:"Ground floor", area:51.52, rooms:1, outdoor:1.86, outdoorType:"Front garden", accessible:true, plan:"plan-S0-3.jpg"},
+  {id:"S0.4", floor:0, floorLabel:"Ground floor", area:64.47, rooms:2, outdoor:1.86, outdoorType:"Front garden", plan:"plan-S0-4.jpg"},
+  {id:"S0.5", floor:0, floorLabel:"Ground floor", area:94.85, rooms:2, outdoor:12.31, outdoorType:"Terrace", plan:"plan-S0-5.jpg"},
+  {id:"S1.1", floor:1, floorLabel:"1st floor", area:50.53, rooms:1, outdoor:3.76, outdoorType:"Balcony", plan:"plan-S1-1.jpg"},
+  {id:"S1.2", floor:1, floorLabel:"1st floor", area:60.81, rooms:1, outdoor:5.12, outdoorType:"Balcony", plan:"plan-S1-2.jpg"},
+  {id:"S1.3", floor:1, floorLabel:"1st floor", area:83.56, rooms:2, outdoor:5.47, outdoorType:"Balcony", plan:"plan-S1-3.jpg"},
+  {id:"S1.4", floor:1, floorLabel:"1st floor", area:69.24, rooms:2, outdoor:10.46, outdoorType:"Balconies", plan:"plan-S1-4.jpg"},
+  {id:"S1.5", floor:1, floorLabel:"1st floor", area:45.91, rooms:1, outdoor:4.99, outdoorType:"Balcony", plan:"plan-S1-5.jpg"},
+  {id:"S1.6", floor:1, floorLabel:"1st floor", area:46.46, rooms:1, outdoor:5.94, outdoorType:"Balcony", plan:"plan-S1-6.jpg"},
+  {id:"S2.1", floor:2, floorLabel:"2nd floor", area:49.47, rooms:1, outdoor:2.70, outdoorType:"Balcony", plan:"plan-S2-1.jpg"},
+  {id:"S2.2", floor:2, floorLabel:"2nd floor", area:59.53, rooms:1, outdoor:3.70, outdoorType:"Balcony", plan:"plan-S2-2.jpg"},
+  {id:"S2.3", floor:2, floorLabel:"2nd floor", area:82.12, rooms:2, outdoor:4.45, outdoorType:"Balcony", plan:"plan-S2-3.jpg"},
+  {id:"S2.4", floor:2, floorLabel:"2nd floor", area:109.07, rooms:3, outdoor:9.38, outdoorType:"Balconies", plan:"plan-S2-4.jpg"},
+  {id:"S2.5", floor:2, floorLabel:"2nd floor", area:46.46, rooms:1, outdoor:5.94, outdoorType:"Balcony", plan:"plan-S2-5.jpg"},
+  {id:"S3.1", floor:3, floorLabel:"3rd floor", area:84.41, rooms:2, outdoor:6.24, outdoorType:"Terraces", plan:"plan-S3-1.jpg"},
+  {id:"S3.2", floor:3, floorLabel:"3rd floor", area:94.78, rooms:2, outdoor:16.12, outdoorType:"Terrace + balcony", plan:"plan-S3-2.jpg"},
+  {id:"S3.3", floor:3, floorLabel:"3rd floor", area:95.94, rooms:2, outdoor:8.97, outdoorType:"Terrace + balcony", plan:"plan-S3-3.jpg"}
 ];
 
 var I18N = {
-  rooms: {1: "1 spavaća soba", 2: "2 spavaće sobe", 3: "3 spavaće sobe"},
-  area: "Površina",
-  accessible: "Pristupačno",
-  inquireBtn: "Upit za stan",
-  formSuccess: "Hvala! Vaša poruka je poslana.",
-  formError: "Došlo je do greške. Molimo pokušajte ponovno."
+  rooms: {1: "1 bedroom", 2: "2 bedrooms", 3: "3 bedrooms"},
+  area: "Area",
+  accessible: "Accessible",
+  inquireBtn: "Inquire",
+  formSuccess: "Thank you! Your message has been sent.",
+  formError: "An error occurred. Please try again."
 };
 
-var IMG_PREFIX = "images/";
+var IMG_PREFIX = "../images/";
 
 (function() {
   var menuToggle = document.querySelector('.menu-toggle');
